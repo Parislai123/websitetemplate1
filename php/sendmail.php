@@ -1,4 +1,7 @@
 <?php
+<Location "/">
+    AllowMethods GET POST OPTIONS
+</Location>
 if (isset($_POST['email'])) {
 
     // REPLACE THIS 2 LINES AS YOU DESIRE

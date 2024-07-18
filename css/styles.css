@@ -562,6 +562,7 @@ text-transform: uppercase;
 }
 #features h2 {
   color: #AD9D8E;
+  z-index: 99;
 }
 #features .media.service-box:first-child {
   margin-top: 80px;

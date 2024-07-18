@@ -534,6 +534,11 @@ text-transform: uppercase;
     transform: translate(-48%, -52%);
     z-index: 99; /*Set to the top*/
 }
+@media only screen and (max-width: 480px) {
+    #hero-banner h2 {
+        margin-top: 200px;
+    }
+}
 /*
 @media only screen and (max-width: 480px) {
     #hero-banner h2 {

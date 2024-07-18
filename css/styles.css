@@ -535,9 +535,9 @@ text-transform: uppercase;
     z-index: 99; /*Set to the top*/
 }
 @media only screen and (max-width: 480px) {
-    #hero-banner h2 {
-        margin-top: 500px;
-    }
+    #history {
+  padding: 70vmin 0;
+}
 }
 /*
 @media only screen and (max-width: 480px) {
